@@ -1,0 +1,38 @@
+.text-center{
+    text-align: center;
+}
+
+.wrapper{
+    margin: 0 17%;
+}
+
+.inner-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.inner-content-2{
+    width: 30%;
+}
+
+.inner-content-1{
+    width: 60%;
+}
+body{
+    color: black;
+    background-color: cadetblue;
+}
+
+a{
+    text-decoration: underline;
+}
